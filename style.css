@@ -1,0 +1,18 @@
+body {
+    color: aliceblue;
+    background: linear-gradient(rgb(255, 87, 87), rgb(255, 178, 90), rgb(255, 255, 110), rgb(150, 255, 129));
+}
+
+.item {
+    font-size: 22px;
+}
+
+#web {
+    border: 4px dotted white;
+    height: 300px;
+    width: 450px;
+}
+
+button {
+    background-color: rgb(255, 0, 98);
+}
